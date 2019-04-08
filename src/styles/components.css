@@ -1,0 +1,26 @@
+.add-button {
+  background: #2c294f;
+  color: #fff;
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  font-size: 14px;
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+}
+
+.add-button:focus {
+  outline: none;
+}
+
+.add-button:hover {
+  outline: none;
+  background: white;
+  color: #2c294f;
+  border: #2c294f 2px solid;
+}
+
+.info-card {
+  padding: 8px;
+}

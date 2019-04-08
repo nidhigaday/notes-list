@@ -1,0 +1,23 @@
+.app-header {
+  background-image: linear-gradient(to right, #04012d, white);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  padding: 12px;
+  height: 50px;
+}
+
+.page-header {
+  font-size: calc(5px + 2vmin);
+  color: #3b3b3b;
+  padding: 12px;
+  height: 44px;
+}
+
+.app-container {
+  padding: 12px;
+  height: calc(100vh - 94px);
+  background: #ececef;
+}
